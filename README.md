@@ -10,6 +10,6 @@ How to share a list of Anaconda Environments:
 
 How to get someone else's list of Anaconda Environment: 
 -	Users can run the following command to download the environment directly from GitHub:
- wget https://github.com/yourusername/yourrepo/environment.yml
+ wget https://github.com/BeNeuro/environments/environment.yml
  conda env create -f environment.yml
 
