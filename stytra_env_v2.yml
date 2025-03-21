@@ -235,4 +235,4 @@ dependencies:
       - virtualenv==20.16.2
       - wcwidth==0.2.13
       - widgetsnbextension==4.0.13
-prefix: C:\Users\xringwal\AppData\Local\miniconda3\envs\stytra_env
+
