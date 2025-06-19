@@ -23,10 +23,9 @@ dependencies:
   - openssl=3.0.16=h3f729d1_0
   - pandas=2.2.3=py313h5da7b33_0
   - pip=25.1=pyhc872135_2
-  - python=3.13.5=h286a616_100_cp313
-  - python-dateutil=2.9.0post0=py313haa95532_2
-  - python-tzdata=2025.2=pyhd3eb1b0_0
-  - python_abi=3.13=0_cp313
+  - python=3.7.12=h900ac77_100_cpython
+  - python-dateutil=2.9.0=pyhd8ed1ab_0
+  - python_abi=3.7=4_cp37m
   - pytz=2024.1=py313haa95532_0
   - setuptools=72.1.0=py313haa95532_0
   - six=1.17.0=py313haa95532_0
